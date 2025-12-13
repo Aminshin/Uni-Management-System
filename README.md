@@ -1,2 +1,2 @@
-# Freedom-InstaDownloader
-This is a Telegram bot for the good people of Iran A completely free and unlimited bot for downloading Instagram content It will be updated soon and interesting features will be added...
+# Uni Management System For Chamran Uni
+
