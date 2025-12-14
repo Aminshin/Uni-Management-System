@@ -1,4 +1,5 @@
 # Uni Management System For Chamran Uni
+This is a management system for the education affairs of a university.
 
 This is a management system for the education affairs of a university.
 In this system, you can have information such as information about professors, students, course offerings, unit selection programs, student grades, and the average grade point average of a student's course, and ranking, etc.
