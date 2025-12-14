@@ -24,3 +24,4 @@ Student Selection:
 <img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/643c102f-b2b9-44bc-82a0-30565106cef5" />
 
 Student Score & Rank:
+<img width="1919" height="1020" alt="Screenshot 2025-12-14 122523" src="https://github.com/user-attachments/assets/19d83489-3192-426c-a7d1-7c84950e564f" />
